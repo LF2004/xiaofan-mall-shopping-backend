@@ -1,7 +1,7 @@
 # 小帆购物商城后端
 
-### 前台地址：https://gitee.com/LiFan2004/xiaofan-mall-shopping
-### 后台地址：https://gitee.com/LiFan2004/xiaofan-mall-shopping-background
+### 前台地址：https://github.com/LF2004/xiaofan-mall-shopping
+### 后台地址：https://github.com/LF2004/xiaofan-mall-shopping-background
 
 ## 项目介绍
 
